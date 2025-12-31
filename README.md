@@ -10,14 +10,22 @@ Admins access all files
 Tracks system usage: total storage & number of open files.
 
 ========== Virtual File System ==========
-User: [username] (Role: [admin/user]) 8. Move File
+User: [username] (Role: [admin/user]) 
+1. Create File (in Folder)
+2. Write to File
+3. Read File
+4. Delete File
+5. Rename File
+6. List Accessible Files
+7. Search File
+8. Move File
 9. Copy File
 10. Open/Close File
 11. Show Resource Usage
 12. Logout
 13. Exit
 =========================================
-Choose an option: _____
+Choose an option:
 
 1. Create File (in Folder)
 2. Write to File
