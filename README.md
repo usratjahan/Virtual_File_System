@@ -24,13 +24,6 @@ User: [username] (Role: [admin/user])
 11. Show Resource Usage
 12. Logout
 13. Exit
-=========================================
 Choose an option:
 
-1. Create File (in Folder)
-2. Write to File
-3. Read File
-4. Delete File
-5. Rename File
-6. List Accessible Files
-7. Search File
+
